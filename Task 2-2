@@ -1,3 +1,13 @@
+USE WINDOW FUNCTIONS,
+SUBQUERIES, AND CTES (COMMON
+TABLE EXPRESSIONS) FOR
+ADVANCED DATA ANALYSIS.
+
+DELIVERABLE: A REPORT GENERATED
+USING SQL QUERIES SHOWCASING
+TRENDS OR PATTERNS.
+#################################################################################################################
+
 mysql> create database company;
 Query OK, 1 row affected (0.02 sec)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
