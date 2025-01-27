@@ -1,5 +1,4 @@
 # CODETECH-Task-2-2
-# CODETECH-Task6
 # Name: Prajapati Udit Mukesh
 # Company: CODTECH IT SOLUTIONS
 # Id: CT12EHC
